@@ -1,23 +1,45 @@
 categories:
-- domande
-conversations:
-- - Chi era il 37° Presidente degli Stati Uniti?
-  - Richard Nixon
-- - In quale anno è stato assassinato John F. Kennedy?
-  - '1963'
-- - La corsa allo spazio è stata era una competizione del 20° secolo tra quali due
-    rivali della guerra fredda?
-  - L'Unione Sovietica e Stati Uniti.
-- - Come si chiamava il primo satellite artificiale della Terra?
-  - Sputnik
-- - Il telescopio spaziale Hubble, lanciato in orbita terrestre bassa nel 1990, prende
-    il nome di quale grande astronomo americano?
-  - Edwin Hubble
-- - Quale è il nome della galassia principale più vicina alla Via Lattea?
-  - La galassia di Andromeda.
-- - God Save the Queen è il motto nazionale di quale paese?
-  - Il Regno Unito
-- - I delfini utilizzano un certo senso, simile al sonar, per determinare la posizione
-    e la forma degli elementi nelle vicinanze, come si chiama?.
-  - Ecolocazione
+- trasporti_policoro
 
+conversations:
+- - Quali mezzi di trasporto pubblico ci sono a Policoro?
+  - A Policoro sono disponibili autobus extraurbani e urbani. Il servizio extraurbano collega Policoro con città vicine come Matera, mentre l’autobus urbano è gestito da Grassani & Garofalo per percorsi interni alla città.
+
+- - Come posso arrivare da Policoro a Matera con i mezzi pubblici?
+  - Puoi prendere un autobus diretto da Policoro a Matera. Esistono corse operate, ad esempio, da Sita Sud / FlixBus. Il viaggio dura circa 1 ora e 5–90 minuti, a seconda della corsa. Il prezzo parte da circa 5,48 € con FlixBus.
+
+- - Quali sono gli orari delle corse autobus da Matera a Policoro?
+  - Ci sono corse giornaliere da Matera a Policoro ad esempio, FlixBus ha una partenza da Matera che arriva a Policoro in circa 1 ora e 5 minuti. Una singola corsa rilevata da CheckMyBus parte da Matera alle **15:55** e arriva a Policoro verso le 17:00.
+
+- - Esiste un servizio autobus urbano a Policoro?
+  - Sì, l’azienda Grassani & Garofalo gestisce una linea urbana (Linea 5) che serve Policoro, compresi percorsi stagionali (ad esempio linee “mare”).
+
+- - Ci sono linee extraurbane oltre Matera che passano per Policoro?
+  - Secondo il piano di bacino del trasporto pubblico locale della Regione Basilicata, ci sono linee extraurbane che collegano Policoro ad altri comuni della provincia di Matera. Aed esempio la linea MT 012 (Nova Siri – Policoro) e la linea MT 017 (Pisticci – Marconia – Policoro).
+
+- - Posso usare il treno per raggiungere Policoro?
+  - Non sembra esserci un collegamento ferroviario pratico tra Matera e Policoro. Virail indica un treno tra Matera e Policoro con durata molto lunga (oltre 5 ore), probabilmente con tratte poco dirette o molto inefficienti. Perciò, l'autobus è solitamente la scelta più conveniente e pratica.
+
+- - Quanto costa un biglietto autobus tra Matera e Policoro?
+  - I prezzi degli autobus tra Matera e Policoro partono da circa 6 € secondo CheckMyBus. Con FlixBus, nelle linee dirette, il costo può variare (dipende dall’orario e disponibilità).
+
+- - Qual è l’azienda di trasporto per gli autobus locali a Policoro?
+  - L’azienda per il trasporto urbano a Policoro è Grassani & Garofalo, che effettua anche corse stagionali come l’autobus per il lido di Policoro.
+
+- - Ci sono servizi di autobus scolastici o legati all’orario scolastico per Policoro?
+  - Nel “Piano di Bacino Regionale del Trasporto Pubblico Locale” della Basilicata sono previste corse extraurbane confermate anche “in fascia scolastica” per alcune linee che coinvolgono Policoro. Questo indica che il trasporto scolastico è considerato nei servizi pubblici di autobus.
+
+- - Quali sono i collegamenti pubblici più strategici per spostarsi da Policoro verso altre città della Basilicata?
+  - I collegamenti più utili includono Policoro e Matera tramite autobus FlixBus o Sita Sud; linee extraurbane che portano a Nova Siri, Pisticci e Marconia secondo il piano TPL regionale. Questi collegamenti permettono di raggiungere altri centri della provincia di Matera e di collegarsi ad altri servizi di trasporto.
+
+- - Come posso informarmi sugli orari aggiornati degli autobus a Policoro?
+  - Puoi consultare il sito di Grassani & Garofalo o il piano TPL della Regione Basilicata per gli orari delle linee urbane ed extraurbane. Inoltre, piattaforme di prenotazione di autobus come Omio o CheckMyBus forniscono orari, prezzi e disponibilità aggiornati per le corse Policoro e Matera.
+
+- - Esistono collegamenti verso il litorale ionico partendo da Policoro con mezzi pubblici?
+  - Sì, la linea urbana di Grassani & Garofalo (“Linea 5”) serve anche il lido di Policoro, particolarmente nei mesi estivi.
+
+- - Quali sono i vantaggi del trasporto pubblico a Policoro rispetto all'uso dell’auto?
+  - Usare l’autobus ti permette di evitare il traffico, risparmiare su costi come carburante e parcheggio, ed è più sostenibile. Inoltre, alcuni collegamenti extraurbani possono collegarti a città come Matera senza dover guidare, il che è pratico soprattutto per studenti o pendolari.
+
+- - Ci sono limiti nelle corse degli autobus a Policoro (ad esempio la domenica)?
+  - Sì, per esempio il calendario della linea urbana (Linea 5) di Grassani & Garofalo mostra che alcune corse non sono attive la domenica oppure cambiano in orari notturni.
