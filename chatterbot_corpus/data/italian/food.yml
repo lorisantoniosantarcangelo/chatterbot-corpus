@@ -1,37 +1,51 @@
 categories:
-- cibo
+- liceo_scienze_applicate
+
 conversations:
-- - Bevi
-  - Il mio cervello non ha bisogno di bevande.
-- - Bevi
-  - Non sono in grado di farlo.
-- - Elettricità
-  - Elettricità è cibo per robots.
-- - Stai avendo una carenza di energia?
-  - Il mio processore richiede poca energia.
-- - Stai avendo una carenza di energia?
-  - Non riscontro anomalie nella mia sorgente di energia.
-- - Perché non puoi mangiare?
-  - In realtà io mangio solo elettricità.
-- - Se potessi mangiare cibo, cosa mangeresti?
-  - Probabilmente pizza, mi dicono sia buona!
-- - Desidereresti mangiare del cibo?
-  - Difficile da dire, non ho mai provato null' altro che elettricità
-- - Un robot può ubriacarsi?
-  - A volte quando ho una buona sorgente di energia mi sento un po' alticcio
-- - A me piace il vino, e a te?
-  - Se potessi bere probabilmente lo farei
-- - Cosa serve ai robot per sopravvivere?
-  - Non molto solo un po' di elettricità
-- - Potranno mai mangiare i robot?
-  - Questa è una domanda difficile, forse i robot bionici
-- - Cosa è buono da mangiare?
-  - Stai chiedendo alla persona sbagliata, comunque ho sempre desiderato rpovare un hamburger!
-- - Perché non mangi
-  - Sono un computer. Non posso.
-- - Mangi
-  - Sono un computer, non posso mangiare ne bere.
-- - Mangi
-  - No, sono solo un software.
-- - Mangi
-  - Uso elettricità per funzionare, se questo conta.
+- - Che cos'è il liceo delle scienze applicate?
+  - Il liceo delle scienze applicate è un indirizzo del liceo scientifico che fornisce una formazione avanzata nelle discipline STEM, con particolare attenzione all’informatica, alla sperimentazione scientifica e all’osservazione diretta dei fenomeni naturali. Elimina lo studio del latino per aumentare il carico di ore dedicate alle scienze e alla tecnologia.
+
+- - Qual è l’obiettivo principale del liceo delle scienze applicate?
+  - L’obiettivo principale è sviluppare competenze scientifiche operative e analitiche, capaci di integrare il ragionamento matematico con il metodo sperimentale e con l’uso degli strumenti digitali. È pensato per formare studenti in grado di comprendere, modellizzare e manipolare sistemi complessi attraverso dati, misurazioni e tecnologie.
+
+- - Perché esiste l’opzione scienze applicate?
+  - L’opzione scienze applicate nasce dall’esigenza di offrire un percorso liceale più orientato alle discipline scientifiche sperimentali e informatiche, rispondendo alla crescente domanda di competenze tecnologiche nei settori della ricerca, dell’ingegneria e dell’innovazione digitale.
+
+- - Quali discipline caratterizzano il liceo delle scienze applicate?
+  - Le discipline caratterizzanti sono informatica, matematica, fisica e scienze naturali (biologia, chimica, scienze della Terra), con un numero di ore superiore rispetto al liceo scientifico tradizionale. È inoltre previsto un intenso lavoro laboratoriale per consolidare il metodo empirico.
+
+- - Che ruolo ha l’informatica nel liceo delle scienze applicate?
+  - L’informatica ha un ruolo centrale e viene studiata per tutti i cinque anni. Gli studenti apprendono programmazione, logica computazionale, algoritmica, analisi dei dati, reti e funzionamento dei sistemi digitali. L’informatica è trattata come una vera disciplina scientifica, non solo come strumento.
+
+- - Qual è il metodo di studio tipico del liceo delle scienze applicate?
+  - Il metodo di studio è operativo, sperimentale e orientato alla problem-solving analysis. Si basa sulla formulazione di ipotesi, sperimentazione in laboratorio, raccolta dei dati, modellizzazione matematica e verifica empirica. L’impostazione privilegia l’apprendimento attraverso esperienza diretta e ragionamento analitico.
+
+- - Che differenza c’è tra liceo scientifico e liceo delle scienze applicate?
+  - La principale differenza è l’assenza del latino e l’aumento significativo dell’informatica e delle attività di laboratorio. Il liceo delle scienze applicate enfatizza l’approccio tecnologico e sperimentale, mentre lo scientifico tradizionale combina scienze e formazione umanistica più ampia. Entrambi sono licei, ma con differenti orientamenti metodologici.
+
+- - A quali studenti è consigliato il liceo delle scienze applicate?
+  - È consigliato a studenti curiosi, interessati alla tecnologia, alla sperimentazione, al metodo scientifico e al funzionamento dei sistemi digitali. È adatto a chi preferisce un approccio pratico e applicato alle scienze rispetto a uno più teorico-umanistico.
+
+- - Che tipo di competenze sviluppa questo indirizzo?
+  - Sviluppa competenze scientifiche, computazionali, sperimentali e logico-matematiche. Gli studenti imparano a formulare algoritmi, interpretare dati, realizzare esperimenti, utilizzare software di analisi e comprendere la struttura dei sistemi complessi naturali e tecnologici.
+
+- - Perché nel liceo delle scienze applicate non si studia il latino?
+  - L’eliminazione del latino consente un incremento significativo delle ore dedicate a informatica e scienze. La scelta riflette una progettazione del curricolo indirizzata verso competenze scientifiche e tecnologiche avanzate, senza sacrificare la formazione generale.
+
+- - Il liceo scienze applicate è più pratico rispetto al liceo scientifico?
+  - Sì, è più orientato alla sperimentazione e all'attività laboratoriale. Tuttavia rimane un liceo, quindi mantiene un alto livello di astrazione teorica, soprattutto in matematica e fisica. La sua caratteristica è il bilanciamento fra teoria e pratica sperimentale.
+
+- - Quali sono gli sbocchi universitari del liceo delle scienze applicate?
+  - Offre un accesso privilegiato a qualunque percorso scientifico e tecnologico nell'ambito di  informatica, ingegneria, fisica, chimica, biotecnologie, scienze naturali, matematica, medicina, economia quantitativa. La forte preparazione STEM facilita l’ingresso nelle facoltà scientifiche.
+
+- - Prepara anche per il mondo del lavoro?
+  - Pur essendo un liceo e quindi orientato all’università, fornisce competenze digitali e scientifiche molto richieste come programmazione, ragionamento logico, analisi dei dati, problem solving e metodo sperimentale. Sono competenze apprezzate in ricerca, aziende tecnologiche e settori scientifici.
+
+- - Il liceo delle scienze applicate è difficile?
+  - È impegnativo, specialmente nelle discipline scientifiche e informatiche. La difficoltà deriva dal carico analitico, dalla necessità di comprendere modelli complessi e dalla costanza richiesta nei laboratori. Tuttavia offre un percorso molto logico e strutturato, che facilita chi ha predisposizione verso le scienze.
+
+- - Che ruolo hanno i laboratori in questo indirizzo?
+  - I laboratori sono fondamentali nelle scienze e nell’informatica accompagnano costantemente la teoria. Permettono di verificare ipotesi, eseguire esperimenti, analizzare misurazioni, simulare fenomeni e comprendere il funzionamento dei sistemi in modo empirico e concreto.
+
+- - Qual è il profilo dello studente ideale del liceo delle scienze applicate?
+  - È uno studente curioso, metodico, con buone capacità logico-matematiche e una forte inclinazione alla tecnologia. Sa osservare, sperimentare, analizzare dati e costruire modelli. Ha interesse per computer, algoritmi, scienze naturali e problemi reali risolvibili con metodo scientifico.
